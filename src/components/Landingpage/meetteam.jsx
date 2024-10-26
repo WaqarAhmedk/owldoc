@@ -1,7 +1,7 @@
 import React from "react";
 import linkedin from "../../assets/images/linkedin.png";
-import twitter from "../../assets/images/twitter.png";
-import teamImage from "../../assets/images/candidate.png"; // Replace with real team photos
+import twitter from "../../assets/images/whatsapp.png";
+import teamImage from "../../assets/images/bg.jpg"; // Replace with real team photos
 
 function MeetTeam() {
   const teamMembers = [

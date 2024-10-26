@@ -6,9 +6,10 @@ import AbboutTeleHealths from "../components/Landingpage/aboutTelelhealth";
 import WhyOwlDoc from "../components/Landingpage/whyOwlDoc";
 import ExploreOurIdea from "../components/Landingpage/exploeouridea";
 import AboutUs from "../components/Landingpage/aboutus";
-import MeetTeam from "../components/Landingpage/ourTeam";
+import MeetTeam from "../components/Landingpage/meetteam";
 import BlogSection from "../components/Landingpage/blogs";
 import Footer from "../components/Landingpage/footer";
+import MeetDoctors from "../components/Landingpage/doctors";
 
 function LandingPage() {
   return (
@@ -26,7 +27,8 @@ function LandingPage() {
       />
       <WhyOwlDoc />
       <ExploreOurIdea />
-      <MeetTeam />
+      <MeetDoctors />
+      {/* <MeetTeam /> */}
       <AboutUs />
       <MeetTeam />
       <AbboutTeleHealths
